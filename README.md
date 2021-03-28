@@ -1,16 +1,16 @@
-### Hi there 👋
+##  React, Bootstrapt, Node   :iphone: :computer: :muscle:
 
-<!--
-**megakinger01/megakinger01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![banner](https://user-images.githubusercontent.com/70145668/112771623-b9660900-8ffa-11eb-90c0-77d0406d1734.jpg)
+
+
+:mailbox: pedroramirezgio01@gmail.com
+
+:running: @pedrozgio instagram
+
+
+##### Desarrollando y aprendiendo React, Bootstrapt, Node, Material Design, y un poco más
+
+### :point_down:  ve mi repositorio!!!! :point_down: 
+
