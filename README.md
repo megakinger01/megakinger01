@@ -10,7 +10,7 @@
 :running: @pedrozgio instagram
 
 
-##### Desarrollando y aprendiendo React, Bootstrapt, Node, Material Design, y un poco más
+##### Desarrollando y aprendiendo React, Bootstrapt, Node, Material Design,Sass y un poco más
 
 ### :point_down:  ve mi repositorio!!!! :point_down: 
 
